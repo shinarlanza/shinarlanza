@@ -11,9 +11,9 @@
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1>Get in Touch! 📬</h1>
 <Br>
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/sheina-arlanza-bb397320b/" target="blank"><img align="center" src="https://img.shields.io/badge/Sheina Arlanza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:sheina.arlanza@wvsu.edu.ph" target="blank"><img align="center" src="https://img.shields.io/badge/sheina.arlanza@wvsu.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/shinarlanza" target="blank"><img align="center" src="https://img.shields.io/badge/shinarlanza-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
