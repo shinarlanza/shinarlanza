@@ -20,3 +20,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sheina-arlanza-bb397320b/" target="blank"><img align="center" src="https://img.shields.io/badge/Sheina Arlanza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:sheina.arlanza@wvsu.edu.ph" target="blank"><img align="center" src="https://img.shields.io/badge/sheina.arlanza@wvsu.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/shinarlanza" target="blank"><img align="center" src="https://img.shields.io/badge/shinarlanza-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+  
+<Br>
+<hr>
+<Br>
+<h1>GitHub Stats! 📊</h1>
+<Br>
+  
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=shinarlanza&show_icons=true&theme=merko)](https://github.com/shinarlanza/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinarlanza&layout=compact&theme=merko)](https://github.com/shinarlanza/github-readme-stats)
+
+
