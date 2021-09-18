@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/shinarlanza">Sheina Arlanza<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1>I'm <a href="https://github.com/shinarlanza">Sheina Arlanza<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
