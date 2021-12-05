@@ -4,8 +4,6 @@
 
 - 🏫: I'm a 3rd year BSIT Student majoring Software Technologies.
 - 🔭: I’m currently working on many small projects.
-- 🌱: I’m currently learning Web Development. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I play mobile games.🎮📱 I sing and dance whenever I am in the mood ⚽🎾🎹. I love indie songs.🎶💙 I love drinking coffee.☕ 
   
