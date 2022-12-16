@@ -2,7 +2,7 @@
 
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a 3rd year BSIT Student majoring Software Technologies.
+- 🏫: I'm a 4th year BSIT Student majoring Software Technologies.
 - 🔭: I’m currently working on many small projects.
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I play mobile games.🎮📱 I sing and dance whenever I am in the mood ⚽🎾🎹. I love indie songs.🎶💙 I love drinking coffee.☕ 
