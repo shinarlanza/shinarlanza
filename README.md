@@ -2,8 +2,7 @@
 
 <h1>About Me! 😎</h1>
 
-- 🏫: Web Developer.
-- 🔭: I’m currently working at Sal-Tech.
+
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I play mobile games.🎮📱 I sing and dance whenever I am in the mood ⚽🎾🎹. I love indie songs.🎶💙 I love drinking coffee.☕ 
   
