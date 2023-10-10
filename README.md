@@ -4,7 +4,7 @@
 
 
 - 😄  Pronouns: She/Her
-- ⚡  Fun fact: I play mobile games.🎮📱 I sing and dance whenever I am in the mood ⚽🎾🎹. I love indie songs.🎶💙 I love drinking coffee.☕ 
+- ⚡  Fun fact: I play mobile games.🎮📱 I sing and dance. ⚽🎾🎹. I love indie songs.🎶💙 I love drinking coffee.☕ 
   
 <hr>
 
