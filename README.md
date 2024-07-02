@@ -2,7 +2,7 @@
 
 <h1>About Me! 😎</h1>
 
-- ⚡  Fun fact: I play mobile games.🎮📱I love indie songs.🎶💙 I love coffee.☕ My cat's name is Zaki.😺
+- ⚡  Fun fact: I play mobile games.🎮📱I love indie songs.🎶💙 I love coffee.☕ 
   
 <hr>
 
